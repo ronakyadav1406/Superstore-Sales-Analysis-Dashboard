@@ -44,4 +44,10 @@ This project is an interactive **Superstore Sales Analysis** Dashboard developed
 2. Open the workbook in Microsoft Excel.
 3. Click **Enable Content** if prompted.
 4. Use the **Region**, **Year**, and **Category** slicers to explore the dashboard.
+
+## 👨‍💻 Author
+
+Ronak Yadav
+
+B.Com Student | Data Analyst Aspirant
   
